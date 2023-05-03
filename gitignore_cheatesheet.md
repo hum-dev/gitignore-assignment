@@ -25,7 +25,7 @@ Gitignore is a file that tells git which files to ignore. It is useful when you 
 patterns in .gitignore files are relative to the location of the .gitignore file. 
 ```
 
-# Patterns
+       Patterns
 
        | Patterns | Explanation/matches | Example |
        | ------------ | ------------- | ------------- |
